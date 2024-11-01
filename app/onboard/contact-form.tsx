@@ -81,8 +81,8 @@ export default function CreateProfile() {
       let userInfo = (await getUserByAddress(wallets[0]?.address)) as any;
       let username = (await getUsernameByAddress(wallets[0]?.address)) as any;
       setFormData({
-        first_name: userInfo?.basicInfo.firstName,
-        last_name: userInfo?.basicInfo.lastName,
+        first_name: userInfo?.basicInfo?.firstName,
+        last_name: userInfo?.basicInfo?.lastName,
         username: username,
         email: userInfo?.basicInfo.email,
         home_address: userInfo?.basicInfo.homeAddress,

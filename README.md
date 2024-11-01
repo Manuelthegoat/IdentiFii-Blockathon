@@ -30,4 +30,8 @@ The current digital identity landscape is often fragmented and insecure, making 
 - **Security Measures:** Strong security measures including encryption and secure key management.
 - **Social Media Integration:** Share your verified digital identity on various social media platforms.
 - **Profile Editing:** Easily update and manage your digital identity profile.
+
+## Credits
+- Created for BlochainUnn blockathon by Uwadiegwu Emmanuel C, Chiziterem Eze, Uwadiegwu Emmanuel
+
 # IdentiFii-Blockathon
